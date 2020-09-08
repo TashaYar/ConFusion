@@ -77,3 +77,20 @@ body {
   bottom: 0px;
   z-index: 1;
 }
+
+// assignment4 modals
+.modal-header {
+  background: $background-dark;
+
+  .modal-title {
+    color: floralwhite;
+  }
+
+  .close {
+    color: floralwhite;
+  }
+}
+
+.modal-body {
+  background: $background-pale;
+}
